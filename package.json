@@ -1,0 +1,21 @@
+
+{
+  "name": "aryan",
+  "version": "1.0.0",
+  "description": "this is aryan ryn -09 signing pf =",
+  "main": "1-global.js",
+  "scripts": {
+
+    "start":" nodemon dependenciesuse.js"
+  },
+
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
